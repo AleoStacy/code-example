@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div>
-      <h1>React + Python Full Stack 🔥</h1>
+      <h1>I LOVE YOU 🔥</h1>
       <p>{message}</p>
       <Best />
       <Another />
